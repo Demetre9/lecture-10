@@ -1,0 +1,34 @@
+body {
+  background-color: rgba(92, 93, 182, 254);
+}
+
+#product-slider,
+#cart {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+#price {
+  font-size: 32px;
+  color: #ffffff;
+}
+
+#decription {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+#buy-now {
+  font-size: 32px;
+  color: #ffffff;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+#currentColor {
+  color: #ffffff;
+}
+
+#currentColor2 {
+  color: #ffffff;
+}
